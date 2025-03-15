@@ -1,5 +1,4 @@
 # vue-file-uploader
-<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -40,6 +39,3 @@ npm run test:unit
 ```sh
 npm run lint
 ```
-=======
-Vue component for file uploading
->>>>>>> c274dfafc82dd90ec0c6069cf8cf715b8a2337df
